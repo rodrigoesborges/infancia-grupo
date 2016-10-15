@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Open positions
 ---
 
@@ -10,7 +10,7 @@ Applications are invited for *14 ESR positions* (“Early Stage Researchers”) 
 
 -----
 
-### Two positions are at Tel Aviv University (and one at industry, see below) 
+### Two positions are at Tel Aviv University (and one at industry, see below)
 
 
 **ESR 7: Lagrangian properties of aerosol parcels at the turbulent/non-turbulent interfaces with density
@@ -29,7 +29,7 @@ providing multi-component measurements of turbulent properties in atmospheric tu
 Expected Results: A set of MEMS-based probes based on different design with adaptation for in-flight vs stationary
 measurements, hardware and software development for the rapid probe deployment.
 
-Host: [Tel Aviv University, Tel Aviv-Yaffo, Israel](https://english.tau.ac.il/) 
+Host: [Tel Aviv University, Tel Aviv-Yaffo, Israel](https://english.tau.ac.il/)
 
 Contact person: Prof. Alex Liberzon, [alexlib@eng.tau.ac.il](mailto:alexlib@eng.tau.ac.il)
 
@@ -59,10 +59,10 @@ Downloadable document: [EURAXESS_AD_H2020-COMPLETE](http://www.envisens.com/wp-c
 
 For more specific information about this position please contact:
 
-[Prof. Alex Liberzon](http://www.eng.tau.ac.il/~alexlib) 
-School of Mechanical Engineering 
-Tel Aviv University 
-Tel: +972-3-640-8928 
+[Prof. Alex Liberzon](http://www.eng.tau.ac.il/~alexlib)
+School of Mechanical Engineering
+Tel Aviv University
+Tel: +972-3-640-8928
 E-mail: [alexlib@eng.tau.ac.il](mailto:alexlib@eng.tau.ac.il)
 
 **Applications**
@@ -92,5 +92,4 @@ Expected Results: Algorithms and software tools to handle accurate wind measurem
 high turbulent flow and high density environment such as fog and clouds. These algorithms and software tools will
 be implemented and tested in Pentalum's SpiDAR technology and potentially in other Lidar systems.
 Host: [Pentalum LTD](http://www.pentalum.com/) , Israel
-Contact person: [Dr. Nathan Sela](mailto:nathan.sela@pentalum.com) 
-
+Contact person: [Dr. Nathan Sela](mailto:nathan.sela@pentalum.com)
