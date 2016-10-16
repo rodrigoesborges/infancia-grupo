@@ -35,8 +35,7 @@ The algorithm and the software package are developed jointly by a group of stude
 Non-members may check out a read-only working copy anonymously over HTTP.
 
 
-
-    svn checkout http://hotwirelut.googlecode.com/svn/trunk/ hotwirelut
+    git clone https://github.com/alexlib/hotwirelut
 
  [1]: http://www.efunda.com/designstandards/sensors/hot_wires/images/hot_wire.gif "from eFunda"
  [2]: http://lh3.google.com/particle.tracking/R3QZMDkCvkI/AAAAAAAABSY/bOi4hCympOk/s400/Image003.jpg "Calibration unit"
