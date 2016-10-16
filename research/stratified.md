@@ -32,4 +32,5 @@ We present a laboratory experiment of the growth of a turbulent patch in a stabl
 <p><a href="https://vimeo.com/180489032">closer zoom into the stratified two layer system interface</a> from <a href="https://vimeo.com/user52353014">Alex Liberzon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-https://vimeo.com/180489032
+<iframe src="https://player.vimeo.com/video/187575248" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/187575248">Visualization of entrainment above a two-layer interface in a stably stratified turbulent flow under an oscillating grid</a> from <a href="https://vimeo.com/user52353014">Alex Liberzon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

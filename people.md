@@ -3,16 +3,18 @@ layout: post
 title: People
 ---
 
-<img src = "images/group_photo_nov2012.jpg" width="600">
+<!-- <img src = "images/group_photo_nov2012.jpg" width="600">
 
 November 2012. Left to right:
 Top row: Mark Baevsky, Zachary Taylor, Lon Cherryholmes, Avi Friedman, Alon Sussmann.
 Bottom row: Katya Talmor, Erez Wenger (R.I.P), Yosef Meller, Alex Liberzon, Hadar Biran, Hadar Traugott
-Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass
+Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
+
+### Successful research is a teamwork
+<img src="images/team.jpg" class="fit image">
 
 
 ### Faculty
-
 * [Alex Liberzon](people/alex_lab.html), Head (Associate Prof.)
 
 ### Lab Engineer
@@ -40,8 +42,9 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass
 
 
 
-### Undergraduates and visitors
+### Undergraduate research assistants
 * [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
+* [Omer Luria](people/omer_luria.html), Tel Aviv University
 
 
 ### Alumni
@@ -64,7 +67,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass
 * [Alon Sussmann](people/alon_sussmann.html), now at his final year project
 * [Dina Bass](people/dina_bass.html), Graduated B.Sc. Biomedical Engineering, Sep. 2013
 * [Zachary Taylor, Ph.D.](people/zach.html), ex-postdoc, Wind Energy Research Center, Canada
-* [Erez Wenger](people/erez_wenger.html), changed his topic to Solar Energy, September 2013
+* [Erez Wenger](people/erez_wenger.html), (R.I.P.) changed his topic to Solar Energy in September 2013.
 * [Hadar Ben Gida](people/hadar_ben_gida.html), co-supervised with Dr. Roi Gurka, graduated May 2013
 * [Yitzchak Shuman](people/yitzchak_shuman.html), co-supervised with Prof. Slava Krylov
 * [Shlomo Markman](people/shlomo_markman.html)
