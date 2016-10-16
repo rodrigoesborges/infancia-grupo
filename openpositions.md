@@ -3,7 +3,7 @@ layout: post
 title: Open positions
 ---
 
-## Two early research positions for the international researchers or returning Israeli citizens (Sep 2016)
+## Two early research positions for the international researchers or returning Israeli citizens (Sep./Oct. 2016)
 
 
 Applications are invited for *14 ESR positions* (“Early Stage Researchers”) to be funded by the Marie-Sklodowska- Curie Innovative Training Network “COMPLETE – Cloud-MicroPhysics-Turbulence-Telemetry: An inter-multidisciplinary training network for enhancing the understanding and modeling of atmospheric clouds within the Horizon 2020 Programme of the European Commission. COMPLETE is a consortium of high profile universities, research institutions and companies located in ltaly, France, Germany, Israel, Poland and UK. See job announcement on [EURAXESS](http://ec.europa.eu/euraxess/index.cfm/jobs/jobDetails/34099915)
