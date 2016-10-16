@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Zachary Taylor
 ---
 
@@ -20,19 +20,19 @@ The goal of my research is to study the dynamics of localized patches of high-in
 
 * B.E.Sc., Mechanical Engineering (2002-2006)  
 University of Western Ontario  
-    
-* Ph.D., Civil and Environmental Engineering (2006-2011) 
+
+* Ph.D., Civil and Environmental Engineering (2006-2011)
 University of Western Ontario  
-    
+
 
 
 
 ## Current research interests
 
 * Environmental fluid mechanics - Evolution of secondary turbulence events in stratified fluids  
-    
+
 * Bluff body aerodynamics - Vortex shedding from elongated bluff bodies (for example, long-span suspension bridges)  
-    
+
 * Improvement and development of fluid measurement devices - Current project: <http://www.openpiv.net>  
 
 
@@ -41,6 +41,6 @@ University of Western Ontario
 Using V3V system (TSI Inc.) we obtained the 3D flow characteristics in weakly stratified flow around the stratified patch
 
 ![]({{site.baseurl}}/images/v3v.jpg)
-    
+
 
 You can also visit my personal website: <http://www.zacharyjtaylor.com>

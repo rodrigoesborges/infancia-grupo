@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Youry Borisenkov
 ---
 
-## Contact details: 
+## Contact details:
 
 <html>
 <img src = "../images/youry.jpg" align = "right">
@@ -25,21 +25,18 @@ youry.bo@gmail.com <br>
 
 #### M.Sc, Mechanical Engineering, Tel Aviv University [2005-2008]
 
-**Micro-machined Shear Stress Sensor** 
+**Micro-machined Shear Stress Sensor**
 
-![](../images/shear3.jpg) 
+![](../images/shear3.jpg)
 
-Origin of Wall Shear-Stress (Padmanabhan et al,1997 ) 
+Origin of Wall Shear-Stress (Padmanabhan et al,1997 )
 
-Some Pictures of the Sensor: 
+Some Pictures of the Sensor:
 
-![](../images/shear1.jpg) 
+![](../images/shear1.jpg)
 ![](../images/shea2.jpg)
- 
 
- [*Thesis Abstract*](../files/Abstract.doc) 
+
+ [*Thesis Abstract*](../files/Abstract.doc)
 
 ### B.Sc  (Mech. eng) - Tel Aviv University [2002-2006]   
-  
-
-

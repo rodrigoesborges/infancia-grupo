@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hadar Ben Gida
 ---
 
@@ -7,7 +7,7 @@ title: Hadar Ben Gida
 <img src="../images/hadar_ben_gida.jpg" width="120">
 
 
-Hadar research is on the turbulent patch evolution in stratified environment. The questions related to secondary instability at long times, variation of coherent motions in the turbulent wake due to the interaction with the stratification, etc. 
+Hadar research is on the turbulent patch evolution in stratified environment. The questions related to secondary instability at long times, variation of coherent motions in the turbulent wake due to the interaction with the stratification, etc.
 
 [**M.Sc.thesis abstract**](../files/abstract_hadar_ben_gida.pdf)
 

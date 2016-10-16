@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hadar Traugott
 ---
 
@@ -10,12 +10,12 @@ title: Hadar Traugott
 <img src = "../images/020320111917.jpg" align = "right" width = "300">
 </html>
 
-Hadar is back after a couple of years of research in the Dead Sea Corporations. She is going to do her Ph.D. on the bio-refinery and macro-algae growth in the open sea project. Hadar is a proud awardee of the Boris Mints Institute scholarship. 
+Hadar is back after a couple of years of research in the Dead Sea Corporations. She is going to do her Ph.D. on the bio-refinery and macro-algae growth in the open sea project. Hadar is a proud awardee of the Boris Mints Institute scholarship.
 
 
 -----
 
-Hadar Traugott master thesis was the resuspension of solid particles in turbulent environment. Turbulent flow picks up the solid particles lying on the bottom with and without mean flow (or mean shear). This aspect was not known as good as the resuspension in fixed or moving beds of flowing channels. The question whether different mechanisms of resuspension are observable experimentally. 
+Hadar Traugott master thesis was the resuspension of solid particles in turbulent environment. Turbulent flow picks up the solid particles lying on the bottom with and without mean flow (or mean shear). This aspect was not known as good as the resuspension in fixed or moving beds of flowing channels. The question whether different mechanisms of resuspension are observable experimentally.
 
 
 ### CV
@@ -25,7 +25,7 @@ Hadar's resume is available from this link: [Hadar_Traugott_CV.pdf](https://dl.d
 
 ### Publications
 
-Hadar Traugott has won the first prize at the [Israel Mechanical Engineering Society 2012 symposium](http://www.icme2012.org.il/) for the outstanding student presentation. The presentation is attached  <http://www.eng.tau.ac.il/~icme2012/all_nf1/ICME_082_Traugott.pdf>. 
+Hadar Traugott has won the first prize at the [Israel Mechanical Engineering Society 2012 symposium](http://www.icme2012.org.il/) for the outstanding student presentation. The presentation is attached  <http://www.eng.tau.ac.il/~icme2012/all_nf1/ICME_082_Traugott.pdf>.
 
 
 
@@ -54,7 +54,7 @@ A video clip that shows 4 camera views of the resuspension events.
 
 ![](../images/traj19.png)
 
-3D trajectory of a lifted particle from the moment of pick-up and to the full resuspension. 
+3D trajectory of a lifted particle from the moment of pick-up and to the full resuspension.
 
 
 ### Presentation of Hadar's work at St. Anthony Falls Laboratory

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Ekaterina (Katya) Talmor
 ---
 
@@ -11,7 +11,7 @@ Ekaterina (Katya) Talmor has graduated in 2013 with B.Sc. in Bio-Medical Enginee
 
 
 ### Flow Characterization In Coronary Tree With Stenosis
-Download the final report here: [PDF](https://www.box.com/s/j4i8rl3r63eo1lz41cvp) 
+Download the final report here: [PDF](https://www.box.com/s/j4i8rl3r63eo1lz41cvp)
 
 
 It is known that **Coronary Artery Disease** is a leading cause of death worldwide. There are many tools that aid physicians to diagnose the disease. One of them is the measurement of Fractional Flow Reserve (FFR) during the coronary angiography.  Calculating FFR requires an invasive procedure of penetrating the stenosis during the state of maximum hyperemia. The objective of the study is to develop a tool, which with noninvasive flow distribution calculations will determine an FFR value and by that will minimize the risk.
@@ -23,6 +23,4 @@ In further study we need to assign the important factors that connect the measur
 
 
 ### Preliminary results
-<img src="../images/flow_map.png" width="400"> 
-
- 
+<img src="../images/flow_map.png" width="400">

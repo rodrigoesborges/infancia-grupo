@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: post
 title: Michael Degtyar
 ---
 
 
 
-Michael worked on his final project with the lab, working on the design and construction the oscillating grid facility. 
+Michael worked on his final project with the lab, working on the design and construction the oscillating grid facility.
 
 
 ![](../images/oscillating_grid.jpg)
@@ -20,7 +20,7 @@ Michael worked on his final project with the lab, working on the design and cons
 ![6](http://lh3.ggpht.com/particle.tracking/SGag52dt9kI/AAAAAAAACJ0/59oPcQTznCU/s144/Image006.jpg)
 
 
-Compare it to the previous design: 
+Compare it to the previous design:
 
 ![](../images/dscn2967.jpg)
 ![](../images/dscn2971.jpg)

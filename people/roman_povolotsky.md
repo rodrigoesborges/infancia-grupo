@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Roman Povolotsky
 ---
 
@@ -20,7 +20,7 @@ Roman Povolotsky was responsible for constructing and testing the experimental f
 
 ![](http://lh5.ggpht.com/_Ehhk1abDUqc/S34y96cv78I/AAAAAAAAJ0M/qfcKNy_3F7E/s288/Picture%20004.jpg)
 
-Roman used several gear pumps, controlled via Labview software from a PC to create a pulsating pressure signal. 
+Roman used several gear pumps, controlled via Labview software from a PC to create a pulsating pressure signal.
 
 
 

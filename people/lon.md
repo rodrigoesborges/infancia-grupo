@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Lon T. Cherryholmes
 ---
 
@@ -14,7 +14,7 @@ title: Lon T. Cherryholmes
 
 I graduated L.C. Anderson High School in Austin, Texas, with International Bachelorette (IB) Certificate in Physics and Calculus in 2006. A couple months after my graduation (18), I came straight to Israel to fulfill my dream of studying at Tel Aviv University. I studied Hebrew and Exact Sciences for a year in the University Preparatory Program for Olim (Mechinat Olim), and then the following year, got immediately accepted into Mechanical Engineering at Tel Aviv University.
 
-Last Semester (Spring 2012, Aviv 5772) was my final semester. I have completely finished my 187.5 required course hours, and am currently in the final stages of finishing up my Capstone Project. 
+Last Semester (Spring 2012, Aviv 5772) was my final semester. I have completely finished my 187.5 required course hours, and am currently in the final stages of finishing up my Capstone Project.
 
 My specialization tracks in Mechanical Engineering were:
 1. Structures & Computational Mechanics

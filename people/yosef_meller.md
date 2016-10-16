@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Yosef Meller
 ---
 
-## Contact details: 
+## Contact details:
 
 <html>
 <img src = "../images/yosef.jpeg" align = "right">
@@ -15,10 +15,10 @@ Desk/Lab: +972-3-6406860
 Fax: +972-3-6406860   
 E-mail: <yosefmel@post.tau.ac.il>  
 
- 
-### Ph.D research 
 
-**Particle resuspension in turbulent flows** 
+### Ph.D research
+
+**Particle resuspension in turbulent flows**
 
 ### Education
 
@@ -31,7 +31,3 @@ Thesis: ** Packed, doubly-connected CPV/T fields **
 Meller Y. and Kribus A., Kaleidoscope homogenizers sensitivity to shading <http://www.sciencedirect.com/science/article/pii/S0038092X1200401X>, Solar Energy, 88:204-14, 2013
 
 Meller, Y. Analytically calculating shading in regular arrays of sun-pointing collectors <http://www.sciencedirect.com/science/article/pii/S0038092X10002653>, Solar Energy, 84:1967-74, 2010
-
-  
-
-

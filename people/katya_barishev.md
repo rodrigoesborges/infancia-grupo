@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Ekaterina Barishev
 ---
 
@@ -22,7 +22,4 @@ In further study we need to assign the important factors that connect the measur
 
 
 ### Preliminary results
-<img src="../images/flow_map.png" width="400"> 
-
- 
-
+<img src="../images/flow_map.png" width="400">

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Eldad Sumnon
 ---
 
@@ -8,6 +8,6 @@ title: Eldad Sumnon
 
 Maya did her final year project on the air flow cooling of the PC case, using unsteady flow control.
 
-## Poster 
+## Poster
 
 [Poster in PDF](../files/poster.pdf)
