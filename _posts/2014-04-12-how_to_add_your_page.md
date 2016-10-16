@@ -3,6 +3,16 @@ layout: post
 title: How to add your personal page
 ---
 
-The easiest way is to look at the Github source of the pages <https://github.com/alexliberzonlab/alexliberzonlab.github.com> and create a copy of one of those. It's so easy to fork the whole directory and change/add something and send back the pull request, that it will take us a second to merge it and automatically build the site. 
+Please use Github fork-edit-pull request to create your own page:
 
+1. create your Github account
+2. fork <https://github.com/alex-lab/alex-lab.github.io>
+3. add your file under `people/` using the template of another team member (to
+    your forked repository)
+4. create pull request on Github to pull your changes into the main repository
 
+when you want to add your image you can use markdown way
+`![Alt test](./images/IS_29-5-16_293.jpg)` or HTML
+
+`<img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
+`

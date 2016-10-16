@@ -3,9 +3,9 @@ layout: post
 title: Publications
 ---
 
-### [Books and book sections](books.html)
+### [Books and book sections ...](books.html)
 
-### [Patents](research/patents.html)
+### [Patents ...](research/patents.html)
 
 
 ### Peer-reviewed journal publications and proceedings

@@ -8,7 +8,7 @@ title: 3D-PTV from ETH Zurich
 
 ### Basic principles
 *   Flow is seeded with small tracers;
-*   Flow is illuminated with continous light source;
+*   Flow is illuminated with continuous light source;
 *   The diffracted light is collected synchronsiously by several (best case is 4) digital (CCD or CMOS) cameras
 
 
@@ -21,7 +21,7 @@ Back view of the PTV system and the illuminated apparatus (Original photo: Dr. J
 
 ### Analysis
 
-Each particle position is determined by the software, using the apriori calibration of the camera parameters, and the matched particles provide a three-dimensional cloud of points; The tracking software tracks particles for relatively long time (an order of tens - hundreds of frames) and this information serves the post-processing analysis.
+Each particle position is determined by the software, using the prepared calibration of the camera parameters, and the matched particles provide a three-dimensional cloud of points; The tracking software tracks particles for relatively long time (an order of tens - hundreds of frames) and this information serves the post-processing analysis.
 
 
 
