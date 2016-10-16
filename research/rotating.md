@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Turbulence under an oscillating grid, w/o rotation
 ---
 

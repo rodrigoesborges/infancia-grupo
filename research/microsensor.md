@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: post
 title: Micro-electro-mechanical technology for turbulent research
 ---
 
 
 
 ### Ph.D. research of [Youry Borisenkov](/people/youryborisenkov)
- 
+
 
 
 ### Micro-electro-mechanical-systems (MEMS)
@@ -37,17 +37,7 @@ More info at [Wikipedia](http://en.wikipedia.org/wiki/Microelectromechanical_sys
 
 ### More photos
 
-<img src = "../images/mems1.jpg" width="300">|<img src = "../images/2.jpg" width="300"> 
---------------|------------- 
+<img src = "../images/mems1.jpg" width="300">|<img src = "../images/2.jpg" width="300">
+--------------|-------------
 <img src = "../images/6.jpg" width="300">|<img src = "../images/7.jpg" width="300">  
 <img src = "../images/8.jpg" width="300">|<img src = "../images/9.jpg" width="300">
-
-
-
-
-
-
-
-
-
-

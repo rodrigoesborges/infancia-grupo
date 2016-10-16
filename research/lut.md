@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Multi hot wire cailbration Look-Up Table algorithm
 ---
 
@@ -8,18 +8,18 @@ title: Multi hot wire cailbration Look-Up Table algorithm
 This is a M.Sc. project of Efi Ezri
 
 
-![from eFunda][] 
+![from eFunda][]
 
 ![Calibration unit][]
 
 
-From Wikipedia: 
+From Wikipedia:
 > "An **anemometer** is a device for measuring the
 velocity or the pressure of the wind, and is one instrument used in a
 weather station. The term is derived from the Greek word, anemos,
 meaning wind." Read more about hot-wire anemometers on eFunda web site.
 
-LUT: 
+LUT:
 > LUT is a shortcut of the lookup-table (In computer science, a lookup
 table is a data structure, usually an array or associative array, used
 to replace a runtime computation with a simpler lookup operation. The

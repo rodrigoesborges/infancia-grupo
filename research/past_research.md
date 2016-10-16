@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Past research projects
 ---
 
@@ -13,4 +13,4 @@ title: Past research projects
 ![](../images/piv_ir_image.jpg)
 
 #### [Rotating turbulence](rotating.html)
-![](../images/rotating.jpg) 
+![](../images/rotating.jpg)

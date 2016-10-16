@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: post
 title: Multi-hot-wire probe
 ---
 
 
- 
+
 ![](../images/calibration_in_situ.jpg)
-![](http://lh3.google.com/particle.tracking/R3QZFDkCvjI/AAAAAAAABSQ/VU6CpdzqR74/s288/theprobe.jpg) 
+![](http://lh3.google.com/particle.tracking/R3QZFDkCvjI/AAAAAAAABSQ/VU6CpdzqR74/s288/theprobe.jpg)
 
 #### History
 From Prof. Tsinober web page: <http://www.eng.tau.ac.il/~tsinober/other.html>
@@ -16,7 +16,7 @@ From Prof. Tsinober web page: <http://www.eng.tau.ac.il/~tsinober/other.html>
 
 #### Calibration unit control software: snapshots
 
-![](../images/DSC00090.jpg)  ![](../images/DSC00091.jpg) 
+![](../images/DSC00090.jpg)  ![](../images/DSC00091.jpg)
 
 #### The team behind the calibration "barrel"
 
@@ -51,8 +51,3 @@ From Prof. Tsinober web page: <http://www.eng.tau.ac.il/~tsinober/other.html>
 #### [Software](software.html)
 
 [LUT based calibration of the multi-hot-wire anemometer (beta version)](hot_wire_calibration.html)
-
-
-
-
-

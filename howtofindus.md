@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: How to reach the laboratory
 ---
 
-### Follow this Google map 
+### Follow this Google map
 
 [Google Map and Google street view of the lab](http://goo.gl/maps/0pxLH)  
 
@@ -13,7 +13,7 @@ title: How to reach the laboratory
 </html>
 
 
-### View from the University side 
+### View from the University side
 
 ![](images/view_from_wolfson.png)
 
@@ -21,4 +21,3 @@ title: How to reach the laboratory
 ### Walking from the train station
 
 [Walking path from the train station](http://goo.gl/maps/lcNq6)
-

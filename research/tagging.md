@@ -1,18 +1,18 @@
 ---
-layout: default
+layout: post
 title: Electronic tagging
 ---
 
 
 #### Pesticide control
 
-Israel Ministry of Environmental Protection is deeply concerned with the illegal, improper and outrageous use of pesticides, hurting birds, wild animals and pets. [Link] 
+Israel Ministry of Environmental Protection is deeply concerned with the illegal, improper and outrageous use of pesticides, hurting birds, wild animals and pets. [Link]
 
 
 
 #### Part of the problem - identification
 
-The part of the problem is that in order to successfully fulfil the law, the ministry has to provide 1:1 identification of the pesticide sources. This problem has not been resolved and lead to our idea. 
+The part of the problem is that in order to successfully fulfil the law, the ministry has to provide 1:1 identification of the pesticide sources. This problem has not been resolved and lead to our idea.
 
 
 

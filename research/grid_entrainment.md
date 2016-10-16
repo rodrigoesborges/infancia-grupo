@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Entrainment across turbulent/non-turbulent interface
 ---
 

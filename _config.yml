@@ -1,8 +1,8 @@
 # Site settings
 title: Alex Liberzon Lab
 email: alexlib@tau.ac.il
-description: Research Laboratory at the School of Mechanical Engineering, Tel Aviv University, working primarily on the experimental turbulence
-baseurl: "/" # the subpath of your site, e.g. /blog/
+description: Research Laboratory, Tel Aviv University, experimental turbulence
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alex-lab.github.io" # the base hostname & protocol for your site
 twitter_username: alexlib
 github_username:  alexlib

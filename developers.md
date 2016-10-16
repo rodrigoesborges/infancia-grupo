@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How to join our development team
 ---
 
@@ -17,8 +17,7 @@ title: How to join our development team
 3. Cython <http://www.cython.org>
 
 
-### Join our team on our mailing lists 
+### Join our team on our mailing lists
 
 1. OpenPIV <http://sourceforge.net/p/openpiv/mailman/openpiv-develop/>
 2. OpenPTV <https://groups.google.com/forum/#!forum/openptv>
-

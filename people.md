@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: People
-published: true
 ---
 
 <img src = "images/group_photo_nov2012.jpg" width="600">
 
 November 2012. Left to right:
 Top row: Mark Baevsky, Zachary Taylor, Lon Cherryholmes, Avi Friedman, Alon Sussmann.
-Bottom row: Katya Talmor, Erez Wenger, Yosef Meller, Alex Liberzon, Hadar Biran, Hadar Traugott
+Bottom row: Katya Talmor, Erez Wenger (R.I.P), Yosef Meller, Alex Liberzon, Hadar Biran, Hadar Traugott
 Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass
 
 
