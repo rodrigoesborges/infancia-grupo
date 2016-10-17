@@ -3,8 +3,8 @@ layout: post
 title: Alon Sussmann
 ---
 
-Alon is working in our lab since Summer 2012, when he joined the special program for undergraduates
-at their second year to get better exposure of the research laboratories. Alon joined the
-four view image splitter project.
+<img src = "{{ site.baseurl }}/images/thorlabs_splitter.jpg" width ="200">
 
-![](../images/thorlabs_splitter.png)
+Alon worked in our lab in 2012. Alon joined the special program for undergraduates
+at their second year to get better exposure of the research laboratories. Alon worked on the
+four view image splitter project.

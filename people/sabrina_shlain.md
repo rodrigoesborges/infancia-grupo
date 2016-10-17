@@ -9,4 +9,4 @@ Sabrina is working in a joint research project of our lab with the laboratory of
 flow for irrigating kidney stone pieces during the surgery. The work is a combination
 of experimental and numerical study.
 
-![Model](../../../images/IMG_9975.jpg)
+![Model]({{site.baseurl}}/images/IMG_9975.jpg)

@@ -5,7 +5,7 @@ title: Mark Kreizer
 
 
 
-![](http://newhost.site/pmwiki.php?n=People.MarkKreizer?action=download&upname=mark_eldad_mirrors_test.png)
+<img src  = "{{ site.baseurl }}/images/mark_eldad_mirrors_test.png" width = "200" align="right">
 
 Mark (on the right) and [Eldad Sumnon](eldad_sumnon.html) setting up the mirrors for the four view image splitter.
 

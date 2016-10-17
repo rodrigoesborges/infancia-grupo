@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Reut Elfassi
+title: Reut (Elfassi) Kamer
 ---
 
 
 
-![](../images/reut.jpg)
+![]({{ site.baseurl }}/images/reut.jpg)
+
+LinkedIn profile https://www.linkedin.com/in/reut-kamer-3973b620
 
 E-mail: <reut101@gmail.com>
 

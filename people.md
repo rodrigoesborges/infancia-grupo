@@ -56,7 +56,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * Danny Sorkin, B.Sc. Graduated 2010
 * [Roman Povolotsky](http://il.linkedin.com/pub/roman-povolotsky/19/442/782), B.Sc. Graduated 2010 [backup](people/roman_povolotsky.html)
 * [Eldad Sumnon](people/eldad_sumnon.html), B.Sc. Graduated 2009
-* [Reut Elfassi](http://au.linkedin.com/pub/reut-elfassi/20/3b6/397), M.Sc. Graduated Jan. 2010 [backup](people/reut_elfassi.html)
+* [Reut (Elfassi) Kamer](https://www.linkedin.com/in/reut-kamer-3973b620), M.Sc. Graduated Jan. 2010 [backup](people/reut_elfassi.html)
 * [David Ratner](http://il.linkedin.com/pub/david-ratner/4/a98/140), M.Sc. Graduated Nov. 2010 [backup](people/david_ratner.html)
 * [Mark Kreizer](http://il.linkedin.com/pub/mark-kreizer/9/36/464), M.Sc. Graduated Feb. 2011 [backup](people/mark_kreizer.html)
 * [Tracey Hayse](http://www.linkedin.com/in/traceyhayse), MITSI program, 2011 [backup](people/tracey.html)
@@ -64,11 +64,11 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Dikla Kersh](http://il.linkedin.com/pub/dikla-kersh/14/85b/27), M.Sc. Graduated Nov. 2012 [backup](people/dikla_kersh.html)
 * [Lon T. Cherryholmes](people/lon.html), B.Sc., graduated 2013
 * [Katya Talmor](people/katya_talmor.html), B.Sc., graduated 2013
-* [Alon Sussmann](people/alon_sussmann.html), now at his final year project
-* [Dina Bass](people/dina_bass.html), Graduated B.Sc. Biomedical Engineering, Sep. 2013
+* [Alon Sussmann](https://www.linkedin.com/in/alon-sussmann-23912866), 2012, [backup](people/alon_sussmann.html)
+* [Dina Bass](https://www.linkedin.com/in/dina-bass-96269288), Graduated B.Sc. Biomedical Engineering, Sep. 2013
 * [Zachary Taylor, Ph.D.](people/zach.html), ex-postdoc, Wind Energy Research Center, Canada
 * [Erez Wenger](people/erez_wenger.html), (R.I.P.) changed his topic to Solar Energy in September 2013.
-* [Hadar Ben Gida](people/hadar_ben_gida.html), co-supervised with Dr. Roi Gurka, graduated May 2013
+* [Hadar Ben Gida](https://www.linkedin.com/in/hadar-ben-gida-b0aa98a7), co-supervised with Dr. Roi Gurka, graduated May 2013 [backup](people/hadar_ben_gida.html)
 * [Yitzchak Shuman](people/yitzchak_shuman.html), co-supervised with Prof. Slava Krylov
 * [Shlomo Markman](people/shlomo_markman.html)
 * [David Altura](people/david_altura.html), co-supervised with Prof. Neima Brauner

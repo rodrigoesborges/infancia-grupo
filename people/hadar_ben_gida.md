@@ -12,16 +12,14 @@ Hadar research is on the turbulent patch evolution in stratified environment. Th
 [**M.Sc.thesis abstract**](../files/abstract_hadar_ben_gida.pdf)
 
 
-<html>
-<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/PsSpXnYxvfg&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/PsSpXnYxvfg&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></embed></object>
-</html>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PsSpXnYxvfg" frameborder="0" allowfullscreen></iframe>
 
 
 ### Presentation at the M.Sc. seminar
 
-<html>
 <script async class="speakerdeck-embed" data-id="aaf229a00b3901303cea12313d0505a7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-</html>
+
 
 
 
