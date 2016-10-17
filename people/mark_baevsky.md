@@ -5,7 +5,7 @@ title: Mark Baevsky
 
 
 <html>
-<img src = "../images/mark_baevsky.jpg" align = "right" width = "300">
+<img src = "{{ site.baseurl }}/images/mark_baevsky.jpg" align = "right" width = "300">
 </html>
 
 Mark Baevsky was our undergraduate student working together with [Hadar Traugott](hadar_traugott.html) on the project "Resuspension of particles in turbulent flows" and also working on the final project in Mechanical Engineering on the design and production of the "Soft silicon pipe apparatus".

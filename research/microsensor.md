@@ -37,7 +37,7 @@ More info at [Wikipedia](http://en.wikipedia.org/wiki/Microelectromechanical_sys
 
 ### More photos
 
-<img src = "../images/mems1.jpg" width="300">|<img src = "../images/2.jpg" width="300">
+<img src = "{{ site.baseurl }}/images/mems1.jpg" width="300">|<img src = "{{ site.baseurl }}/images/2.jpg" width="300">
 --------------|-------------
-<img src = "../images/6.jpg" width="300">|<img src = "../images/7.jpg" width="300">  
-<img src = "../images/8.jpg" width="300">|<img src = "../images/9.jpg" width="300">
+<img src = "{{ site.baseurl }}/images/6.jpg" width="300">|<img src = "{{ site.baseurl }}/images/7.jpg" width="300">  
+<img src = "{{ site.baseurl }}/images/8.jpg" width="300">|<img src = "{{ site.baseurl }}/images/9.jpg" width="300">

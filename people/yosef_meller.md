@@ -6,7 +6,7 @@ title: Yosef Meller
 ## Contact details:
 
 <html>
-<img src = "../images/yosef.jpeg" align = "right">
+<img src = "{{ site.baseurl }}/images/yosef.jpeg" align = "right">
 </html>
 
 Yosef Meller  

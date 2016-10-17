@@ -4,7 +4,7 @@ title: Ekaterina (Katya) Talmor
 ---
 
 
-<img src = "../images/katy_barishev.jpg" width = "250" align ="right">
+<img src = "{{ site.baseurl }}/images/katy_barishev.jpg" width = "250" align ="right">
 
 Ekaterina (Katya) Talmor has graduated in 2013 with B.Sc. in Bio-Medical Engineering (Cum Laude). Katya both worked as a research assistant and also completed her final research project with our lab.
 
@@ -23,4 +23,4 @@ In further study we need to assign the important factors that connect the measur
 
 
 ### Preliminary results
-<img src="../images/flow_map.png" width="400">
+<img src="{{ site.baseurl }}/images/flow_map.png" width="400">

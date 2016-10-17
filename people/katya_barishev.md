@@ -4,7 +4,7 @@ title: Ekaterina Barishev
 ---
 
 
-<img src = "../images/katy_barishev.jpg" width = "250" align ="right">
+<img src = "{{ site.baseurl }}/images/katy_barishev.jpg" width = "250" align ="right">
 
 Hello, My name is Ekaterina Barishev and I’m 4th year BSc student in Bio-Medical Engineering and research assistant to Hadar Biran in Alex Liberzon Laboratory.
 
@@ -22,4 +22,4 @@ In further study we need to assign the important factors that connect the measur
 
 
 ### Preliminary results
-<img src="../images/flow_map.png" width="400">
+<img src="{{ site.baseurl }}/images/flow_map.png" width="400">

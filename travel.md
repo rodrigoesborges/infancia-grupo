@@ -12,15 +12,15 @@ title: Conferences and places we visited
 
 ### Turin, Italy (Alex)
 
-<img src="{{ site.baseurl }}images/torino.jpg" width="600">
+<img src="{{ site.baseurl }}/images/torino.jpg" width="600">
 
 
 ### COST Action "Flowing matter" (Alex)
 
 Lecce, Italy
 
-<img src="{{ site.baseurl }}images/IMG_0925.JPG" width="600">
-<img src="{{ site.baseurl }}images/IMG_0929.JPG" width="600">
+<img src="{{ site.baseurl }}/images/IMG_0925.JPG" width="600">
+<img src="{{ site.baseurl }}/images/IMG_0929.JPG" width="600">
 
 
 ### 8th EU Postgraduate Fluid Dynamics Conference (Lilly)
@@ -33,9 +33,9 @@ Warsaw, Poland
 Delft, Netherlands
 
 
-<img src="{{ site.baseurl }}images/etc15_1.jpg" width="600">
-<img src="{{ site.baseurl }}images/etc15_2.jpg" width="600">
-<img src="{{ site.baseurl }}images/etc15_3.jpg" width="600">
+<img src="{{ site.baseurl }}/images/etc15_1.jpg" width="600">
+<img src="{{ site.baseurl }}/images/etc15_2.jpg" width="600">
+<img src="{{ site.baseurl }}/images/etc15_3.jpg" width="600">
 
 
 
@@ -43,11 +43,11 @@ Delft, Netherlands
 
 Lyon, France  
 
-<img src="{{ site.baseurl }}images/etc14.JPG" width="600">
+<img src="{{ site.baseurl }}/images/etc14.JPG" width="600">
 
 
 ## iTi14 (Lilly, Alex)
 
 Bertinoro, Italy
 
-<img src="{{ site.baseurl }}images/bertinoro.jpg" width="600">
+<img src="{{ site.baseurl }}/images/bertinoro.jpg" width="600">

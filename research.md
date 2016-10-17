@@ -11,7 +11,7 @@ Some of those are highlighted:
 
 ### Particles in turbulence
 
-<img src = "../images/twophase.jpg" height="300" class="fit img">
+<img src = "{{ site.baseurl }}/images/twophase.jpg" height="300" class="fit img">
 
 We study several aspects of particle-laden turbulent flows: a) clustering, b) resuspension (detachment from the wall), c) impact or deposition on the walls, etc. In those studies we try to develop the new approach, based on the direct force estimates from the two-phase 3D-PTV data, i.e. combining the motion of particles with the flow velocity fields obtained by the flow tracers motion.
 
@@ -21,7 +21,7 @@ We study several aspects of particle-laden turbulent flows: a) clustering, b) re
 ### Real time image processing for 3D-PTV
 
 
-<img src = "../images/realtime.jpg" height="200px" class="fit img">
+<img src = "{{ site.baseurl }}/images/realtime.jpg" height="200px" class="fit img">
 
 Three dimensional Particle Tracking Velocimetry (3D-PTV) is our main measurement method. We can measure 3D turbulent flows and even two-phase flows or interactions of objects (particles, bubbles, droplets, animals, etc.) with the turbuelnt flow. The tracking procedure requrires digital video recording and therefore the hardware limitations are mostly due to the large data bandwidth. We develop the image processing algorithms, software and hardware to resolve this bottleneck - introducing the real-time image processing into the pipeline.
 
@@ -29,16 +29,16 @@ Three dimensional Particle Tracking Velocimetry (3D-PTV) is our main measurement
 
 ### MEMS sensors
 
-<img src = "../images/yoav_sensor.jpg" height="200px" class="fit img">
-<img src = "../images/shear1.jpg" height="200px" class="fit img">
-<img src = "../images/P1010129.JPG" height="200px" class="fit img">
+<img src = "{{ site.baseurl }}/images/yoav_sensor.jpg" height="200px" class="fit img">
+<img src = "{{ site.baseurl }}/images/shear1.jpg" height="200px" class="fit img">
+<img src = "{{ site.baseurl }}/images/P1010129.JPG" height="200px" class="fit img">
 
 <a href="research/mems.html" class="button alt small">Learn more</a>
 
 <!-- ### Lid driven cavity
 
 
-<img src = "../images/assembly_belt_large_aquarium.jpg" width = "140px" height="140px" class="img-circle">
+<img src = "{{ site.baseurl }}/images/assembly_belt_large_aquarium.jpg" width = "140px" height="140px" class="img-circle">
 
 
 <p>
@@ -50,7 +50,7 @@ Three dimensional Particle Tracking Velocimetry (3D-PTV) is our main measurement
 
 ### Dilute polymers effects on turbulence
 
-<img src = "../images/polymers.jpg" height="200" class="fit img">
+<img src = "{{ site.baseurl }}/images/polymers.jpg" height="200" class="fit img">
 
 Dilute polymers are known to affect turbulent flows and the most known example is the drag reduction in oil pipelines. We study the less known part of their effect, the mechanism by which turbulent kinetic energy transfer from large to small (and maybe vice versa) is affected by dilute polymers. The main facility is an oscillating grid and the research is in collaboration with the partners from Germany and Italy.
 
@@ -59,7 +59,7 @@ Dilute polymers are known to affect turbulent flows and the most known example i
 
 ### Stratified turbulence
 
-<img src = "../images/stratified_red.jpg" height="300" class="fit img">
+<img src = "{{ site.baseurl }}/images/stratified_red.jpg" height="300" class="fit img">
 
 We study several turbulent flow configurations in a stably stratified conditions:
 a localized spherical turbulent patch during its initial growth phase and the steady
@@ -69,7 +69,7 @@ state case of a two layer system.
 
 ### Pulsating flows in compliant tubes
 
-<img src = "../images/profiles_700_quiver.jpg" height="300" class="fit img">
+<img src = "{{ site.baseurl }}/images/profiles_700_quiver.jpg" height="300" class="fit img">
 
 One of the central topics of our research is the complex, pulsating flows in three-dimensional and compliant enclosures. These flows are at the core of the biomedical applications such as aorta flow, mitral valves, stent designs, etc. We can provide a better view on the motion of the particulate or dissolved matter in such flows due to the three-dimensional partcile tracking velocimetry capabilities. We measure particle residence time, resistances of flexible complex geometries and wall shear stresses.
 
@@ -79,7 +79,7 @@ One of the central topics of our research is the complex, pulsating flows in thr
 ### Cooling electronics
 
 
-<img src = "../images/cooling2.jpg" height = "300" class="fit img">
+<img src = "{{ site.baseurl }}/images/cooling2.jpg" height = "300" class="fit img">
 
 An idea to use the unsteadiness of the flow in order to increase the heat transfer coefficient and thus improve the heat transfer rates is not new. We took this idea into the system which is typically poorly designed - the flat heat sink with the air fan cooling. This system is highly inefficient due to the stagnation zones inside the heat sink channels. Our method is improving the heat transfer efficiency of such systems by re-using the natural convection and better flow and heat transfer control.
 

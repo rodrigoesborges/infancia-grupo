@@ -6,7 +6,7 @@ title: Zachary Taylor
 ## Short bio
 
 <html>
-<img src = "../images/zach.jpg" align = "right" width = "200">
+<img src = "{{ site.baseurl }}/images/zach.jpg" align = "right" width = "200">
 </html>
 
 I completed my PhD at the University of Western Ontario in the field of Civil and Environmental Engineering. Currently, I am an Azrieli International Post-doctoral Fellow at Tel Aviv University in the field of environmental fluid mechanics.  Within this field my particular focus is on the decay of turbulent patches in stable stratification.  

@@ -5,7 +5,7 @@ title: David Altura
 
 
 <html>
-<img src = "../images/david_altura.jpg" align = "right">
+<img src = "{{ site.baseurl }}/images/david_altura.jpg" align = "right">
 </html>
 
 My thesis is on the unsteady air flow cooling principles of electronic devices. A short introduction

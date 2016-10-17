@@ -986,10 +986,10 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/Cerebrospinal_fluid_mechanics_using_3D_PTV.gif");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
+		background-image: url("../images/Cerebrospinal_fluid_mechanics_using_3D_PTV.gif");
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;

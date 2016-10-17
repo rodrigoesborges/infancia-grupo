@@ -5,7 +5,7 @@ title: Unsteady air flow cooling of electronic devices
 
 
 <html>
-<img src="../images/promo.jpg" width="200" align = "right">
+<img src="{{ site.baseurl }}/images/promo.jpg" width="200" align = "right">
 </html>
 
 ### M.Sc. thesis of [David Altura](../people/david_altura.html)
@@ -18,7 +18,7 @@ This research shows that we can **improve** the fan-heat-sink cooling system per
 The presentation gives some highlights of this research: [PDF](../files/davidaltura.pdf)
 
 <html>
-<img src="../images/piv_inlet_outlet_fan_sink_model.jpg" width="400">
+<img src="{{ site.baseurl }}/images/piv_inlet_outlet_fan_sink_model.jpg" width="400">
 </html>
 
 

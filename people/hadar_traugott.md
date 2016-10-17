@@ -6,7 +6,7 @@ title: Hadar Traugott
 
 
 
-<img src = "../images/020320111917.jpg" align = "right" width = "400" style="PADDING-LEFT: 15px; PADDING-RIGHT: 15px;">
+<img src = "{{ site.baseurl }}/images/020320111917.jpg" align = "right" width = "400" style="PADDING-LEFT: 15px; PADDING-RIGHT: 15px;">
 
 Hadar is back with our lab, after a couple of years of research in the Dead Sea Corporations. She is at the beginning of her **Ph.D.** on the _bio-refinery and macro-algae growth in the open sea project_, co-supervised with [Dr. Alex Golberg](http://www.tau.ac.il/~agolberg/) from the Porter School of Environmental Engineering  Hadar is a proud awardee of the Boris Mints Institute scholarship.
 

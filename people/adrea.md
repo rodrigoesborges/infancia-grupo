@@ -5,7 +5,7 @@ title: Adrea Gonzalez-Karlsson
 
 
 <html>
-<img src = "../images/adrea.jpg" align = "right">
+<img src = "{{ site.baseurl }}/images/adrea.jpg" align = "right">
 </html>
 
 Adrea joined our multi-disciplinary research project with Prof. Ally Harari from the Volcani center

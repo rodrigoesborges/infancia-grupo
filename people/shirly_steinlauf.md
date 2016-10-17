@@ -10,3 +10,7 @@ Shirly Steinlauf is the M.Sc. student, supervised jointly with Prof. Idit Avraha
 
 
 ![](../images/shirly_models.jpg)
+
+Shirley presented her work at the ISMBE conference in 2016:
+
+[**Experimental Study of Approaches for Treatment of Aortic Arch Aneurysm**](https://events.eventact.com/programview/ViewAbstract.aspx?Abst=118810&Code=2196256)

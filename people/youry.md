@@ -6,7 +6,7 @@ title: Youry Borisenkov
 ## Contact details:
 
 <html>
-<img src = "../images/youry.jpg" align = "right">
+<img src = "{{ site.baseurl }}/images/youry.jpg" align = "right">
 Youry Borisenkov<br>
 Ph.D student <br>
 Desk/Lab: +972-3-6405261 <br>

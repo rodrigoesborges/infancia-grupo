@@ -19,7 +19,7 @@ In order to add a page, e.g. for a new student, please use one of the pages as a
 		### Short Bio
 
 		<html>
-			<img src = "../images/yourimage.jpg" align = "right">
+			<img src = "{{ site.baseurl }}/images/yourimage.jpg" align = "right">
 		</html>
 
 

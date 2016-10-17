@@ -4,7 +4,7 @@ title: Oz Habiby
 ---
 
 <html>
-<img src = "../images/oz_habiby_setup.jpg" align = "right" width = "300">
+<img src = "{{ site.baseurl }}/images/oz_habiby_setup.jpg" align = "right" width = "300">
 </html>
 
 Oz Habiby starts his M.Sc. research thesis under the guidance of Dr. Alexander Golberg from the

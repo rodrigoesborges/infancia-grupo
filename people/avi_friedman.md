@@ -5,7 +5,7 @@ title: Avi Friedman
 
 
 <html>
-<img src = "../images/avi_friedman.png" align = "right">
+<img src = "{{ site.baseurl }}/images/avi_friedman.png" align = "right">
 </html>
 
 My work is Investigating the flow around a micro-swimmer utilizing MRI fields for undulatory locomotion in in-vivo applications. Such micro-robotic swimmers have great potential in the biomedical field (Nelson et al. 2010). These, particularly the untethered robotic devices, are micro-devices scaled at 10 µm – 1 mm in size, which can be used in in-vivo procedures in an accurate and targeted way.
