@@ -8,6 +8,16 @@ Our main research interest is the structure of **turbulent flows** in natural an
 Some of those are highlighted:
 
 
+### Stratified turbulence
+
+<img src = "{{ site.baseurl }}/images/stratified_red.jpg" height="300" class="fit img">
+
+We study several turbulent flow configurations in a stably stratified conditions:
+a localized spherical turbulent patch during its initial growth phase and the steady
+state case of a two layer system.
+
+<a href="research/stratified.html" class="button alt small">Learn more</a>
+
 
 ### Particles in turbulence
 
@@ -57,15 +67,7 @@ Dilute polymers are known to affect turbulent flows and the most known example i
 <a href="research/polymers.html" class="button alt small">Learn more</a>
 
 
-### Stratified turbulence
 
-<img src = "{{ site.baseurl }}/images/stratified_red.jpg" height="300" class="fit img">
-
-We study several turbulent flow configurations in a stably stratified conditions:
-a localized spherical turbulent patch during its initial growth phase and the steady
-state case of a two layer system.
-
-<a href="research/stratified.html" class="button alt small">Learn more</a>
 
 ### Pulsating flows in compliant tubes
 
