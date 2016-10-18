@@ -11,7 +11,7 @@ Bottom row: Katya Talmor, Erez Wenger (R.I.P), Yosef Meller, Alex Liberzon, Hada
 Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 
 ### Successful research is a teamwork
-<img src="images/team.jpg" class="fit image">
+<img src="images/team.jpg" height="400" >
 
 
 ### Faculty
