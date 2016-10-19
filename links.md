@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alex Liberzon Laboratory
+title: Our colleagues and additional useful links
 ---
 
 ### Links

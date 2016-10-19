@@ -14,6 +14,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 <img src="images/team.jpg" height="400" >
 
 
+
 ### Faculty
 * [Alex Liberzon](people/alex_lab.html), Head (Associate Prof.)
 
@@ -81,3 +82,11 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Lisa Yang](people/lisa_yang.html), [MIT-Israel program](http://misti.mit.edu/mit-israel)
 * [Sarah Berdugo](people/sarah_berdugo.html), Pierre et Marie Curie University, Paris
 * [Nimrod Daniel](people/nimrod_daniel.html)
+
+
+### A lot of credit goes to our colleagues
+See also our [Colleagues and additional useful links](links)
+
+
+
+
