@@ -13,12 +13,12 @@ Applications are invited for *14 ESR positions* (“Early Stage Researchers”) 
 ### ~~Two~~ One position~~s~~ are at Tel Aviv University (and one at industry, see below)
 
 
-~~**ESR 7: Lagrangian properties of aerosol parcels at the turbulent/non-turbulent interfaces with density
-jumps**
-Objectives: Experimental and numerical based estimates of "apparent diffusivity" of particles and fluid parcels
+~~ESR 7: Lagrangian properties of aerosol parcels at the turbulent/non-turbulent interfaces with density
+jumps~~
+~~Objectives: Experimental and numerical based estimates of "apparent diffusivity" of particles and fluid parcels
 crossing the turbulent/non-turbulent interfaces with density jumps.
 Expected Results: Parameterisation and a model of the spreading rate and "apparent diffusivity" constants as a
-function of density jump, and particle-related parameters (Reynolds, Stokes).
+function of density jump, and particle-related parameters (Reynolds, Stokes).~~
 
 
 **ESR 8: Development of the multi-MEMS-sensor-probe for the three dimensional turbulent velocity and
