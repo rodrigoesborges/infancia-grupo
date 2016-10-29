@@ -10,7 +10,7 @@ Applications are invited for *14 ESR positions* (“Early Stage Researchers”) 
 
 -----
 
-### ~~Two~~ One position~~s~~ are at Tel Aviv University (and one at industry, see below)
+### ~~Two~~ One position at Tel Aviv University (and another with industry, see below)
 
 
 ~~ESR 7: Lagrangian properties of aerosol parcels at the turbulent/non-turbulent interfaces with density
