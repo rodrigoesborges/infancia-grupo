@@ -28,22 +28,20 @@ Study of the turbulent entrainment through a sharp turbulent/non-turbulent inter
 and the top layer mixed by an oscillating grid.
 
 
-<h4>Contacts:</h4>
+#### Contacts:
 
-Lilly Verso
-
-Ph.D student 
-
-Lab: +972-3-6406860 
-
+Lilly Verso  
+Ph.D student  
+Lab: +972-3-6406860   
 E-mail: lillyverso@gmail.com or lillyverso@post.tau.ac.il 
 
-<h4>Publication:</h4>
+#### Publication:
+
 Verso L., Liberzon A (2015): *Background Oriented Schlieren in a density stratified fuid* . Rev.Sci.Instrument.86
 
 
-<h4>Code Release:</h4>
-OpenPiv-BOS (Background Oriented Schlieren) for a stratified liquid case. Visit: http://www.openpiv.net/bos
+#### Code Release:
+OpenPiv-BOS (Background Oriented Schlieren) for a stratified liquid case. Visit: [http://www.openpiv.net/bos](http://www.openpiv.net/bos)
 
 
 
