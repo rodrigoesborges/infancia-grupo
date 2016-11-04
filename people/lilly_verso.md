@@ -3,7 +3,7 @@ layout: post
 title: Lilly Verso
 ---
 
-<img src="{{site.baseurl}}/images/Lilly_Verso.jPG" width="300" align="right">
+<img src="{{site.baseurl}}/images/Lilly_Verso.JPG" width="300" align="right">
 Lilly Verso was first our guest from Polytechnico Di Torino. He's working on his masters degree project at the laboratory of Prof. <a href="http://areeweb.polito.it/ricerca/philofluid/people/72-daniela-tordella.html">Daniela Tordella</a> and visits the Alex Liberzon Laboratory under the IAESTE students exchange program.
 
 He successfully graduated in July 2013 and joined the lab as a Ph. D. student in 2014. On June 2015 he was assigned as the Ph.D. candidacy exam.
