@@ -3,7 +3,7 @@ layout: post
 title: Lilly Verso
 ---
 
-
+<img src="{{site.baseurl}}/images/Lilly_Verso.jPG" width="300" align="right">
 Lilly Verso was first our guest from Polytechnico Di Torino. He's working on his masters degree project at the laboratory of Prof. <a href="http://areeweb.polito.it/ricerca/philofluid/people/72-daniela-tordella.html">Daniela Tordella</a> and visits the Alex Liberzon Laboratory under the IAESTE students exchange program.
 
 He successfully graduated in July 2013 and joined the lab as a Ph. D. student in 2014. On June 2015 he was assigned as the Ph.D. candidacy exam.
@@ -15,9 +15,10 @@ To support his study, Lilly performs laboratory experiments by using several adv
 
 With Alex’s rich experience in the field and Lilly’s ambition to keep investigating/learning, they are pushing the limits and finding new ways to uncover more of the turbulent entrainment in stable stratifications. 
 
-Some of his observations can be seen here:
-[images here] 
-picture
+Some of his observations can be seen here: 
+ 
+<img src="{{site.baseurl}}/images/Schlieren2.jpg" size="300">  
+
 Snapshot of ethanol injected in water obtained through Schlieren technique.
 
 [Movie here]
@@ -45,7 +46,7 @@ OpenPiv-BOS (Background Oriented Schlieren) for a stratified liquid case. Visit:
 
 
 
-<h4>Conferences:</h4>
+#### Conferences:
 
 Verso, L., van Reewuvijk, M., Taylor, Z.J., Gurka, R. and Liberzon, A.
 *Development phase of a turbulent patch in stratified flows*
