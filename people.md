@@ -41,6 +41,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Meiron Zollmann](people/meiron_zollmann.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
+* [Assaf Nardi](people/assaf_nardi.html), together with Prof. Idit Avrahami
 
 
 
