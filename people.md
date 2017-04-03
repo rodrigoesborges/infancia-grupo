@@ -30,6 +30,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Lilly Verso](people/lilly_verso.html)
 * [Ron Shnapp](people/ron_shnapp.html)
 * [Hadar Traugott](people/hadar_traugott.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
+* [Marco Boetti](people/marco-boetti.html), COMPLETE International Training Network
 
 
 ### M.Sc. students
