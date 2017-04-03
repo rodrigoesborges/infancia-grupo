@@ -28,14 +28,12 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Ron Shnapp](people/ron_shnapp.html)
 * [Hadar Traugott](people/hadar_traugott.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Marco Boetti](people/marco-boetti.html), COMPLETE International Training Network
+* [Yoav Kessler](people/yoav_kessler.html), together with Prof. Slava Krylov
 
 
 ### M.Sc. students
-
-* [Yoav Kessler](people/yoav_kessler.html), together with Prof. Slava Krylov
 * [Barak Even Chen](people/barak_even_chen.html), together with Prof. Idit Avrahami
 * [Shirly Steinlauf](people/shirly_steinlauf.html), together with Prof. Idit Avrahami
-* [Shaily Wald](people/shaily_wald.html), together with Prof. Idit Avrahami
 * [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Meiron Zollmann](people/meiron_zollmann.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
@@ -82,6 +80,8 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Lisa Yang](people/lisa_yang.html), [MIT-Israel program](http://misti.mit.edu/mit-israel)
 * [Sarah Berdugo](people/sarah_berdugo.html), Pierre et Marie Curie University, Paris
 * [Nimrod Daniel](people/nimrod_daniel.html)
+* [Shaily Wald](people/shaily_wald.html), completed M.Sc. in 2017, supervised together with Prof. Idit Avrahami
+
 
 
 ### A lot of credit goes to our colleagues
