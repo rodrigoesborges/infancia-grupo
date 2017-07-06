@@ -11,7 +11,7 @@ Bottom row: Katya Talmor, Erez Wenger (R.I.P), Yosef Meller, Alex Liberzon, Hada
 Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 
 ### Successful research is a teamwork
-<img src="images/team.jpg" height="400" >
+<img src="{{ site.baseurl }}/images/team.jpg" class="fit image">
 
 
 
@@ -37,13 +37,13 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Meiron Zollmann](people/meiron_zollmann.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
-* [Assaf Nardi](people/assaf_nardi.html), together with Prof. Idit Avrahami
+* [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
 
 
 
 ### Undergraduate research assistants
-* [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
 * [Omer Luria](people/omer_luria.html), Tel Aviv University
+* [Daniel Bar](people/daniel_bar.html), Tel Aviv University
 
 
 ### Alumni
