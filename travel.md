@@ -4,6 +4,12 @@ title: Conferences and places we visited
 ---
 
 
+### Hamburg, July 2017 (Alex)
+
+<img src="{{ site.baseurl }}/images/IMG_1808.JPG" width="600">
+
+
+
 ### IEEE Sensors 2016 (Yoav Kesler)
 
 
