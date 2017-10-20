@@ -39,3 +39,13 @@ In order to add a page, e.g. for a new student, please use one of the pages as a
 3. Send pull request or a patch
 
 or simply send the file to our contact e-mail.
+
+
+#### How to update the site on http://www.eng.tau.ac.il/~tsl
+
+1. After Github update and build check that the site is working
+2. on your local machine install jekyll and what's needed with it (kramdown, bundle ,etc.)
+3. use the following command and then upload the result _site folder to the www.eng.tau.ac.il
+
+    jekyll serve --baseurl="/~tsl"
+
