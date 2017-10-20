@@ -29,21 +29,20 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Hadar Traugott](people/hadar_traugott.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Marco Boetti](people/marco-boetti.html), COMPLETE International Training Network
 * [Yoav Kessler](people/yoav_kessler.html), together with Prof. Slava Krylov
+* [Meiron Zollmann](people/meiron_zollmann.html), on a direct track to Ph.D., together with Dr. Alex Golberg, Porter School of Environmental Studies
+
 
 
 ### M.Sc. students
 * [Barak Even Chen](people/barak_even_chen.html), together with Prof. Idit Avrahami
 * [Shirly Steinlauf](people/shirly_steinlauf.html), together with Prof. Idit Avrahami
 * [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
-* [Meiron Zollmann](people/meiron_zollmann.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
 * [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
 
 
 
 ### Undergraduate research assistants
-* [Omer Luria](people/omer_luria.html), Tel Aviv University
-* [Daniel Bar](people/daniel_bar.html), Tel Aviv University
 
 
 ### Alumni
@@ -81,6 +80,10 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Sarah Berdugo](people/sarah_berdugo.html), Pierre et Marie Curie University, Paris
 * [Nimrod Daniel](people/nimrod_daniel.html)
 * [Shaily Wald](people/shaily_wald.html), completed M.Sc. in 2017, supervised together with Prof. Idit Avrahami
+* [Omer Luria](people/omer_luria.html), Tel Aviv University
+* [Daniel Bar](people/daniel_bar.html), Tel Aviv University
+
+
 
 
 
