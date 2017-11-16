@@ -18,4 +18,14 @@ The pulsating flows in compliant pipes is very complex system in which the flow 
 More info is on the page of [Dikla Kersh](../people/dikla_kersh.html)
 
 
-https://www.youtube.com/watch?v=qUYm8IqBgGY
+
+## New experimental study in collaboration with Prof. Idit Avrahami
+
+See also the pages of [Shaily Wald](../people/shaily_wald.html), [Barak Even Chen](../people/barak_even_chen.html) and [Shirly Steinlauf](../people/shirly_steinlauf.html)
+
+### Numerical study 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVnyQfcoj84" frameborder="0" allowfullscreen></iframe> 
+
+
+### Experimental study
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUYm8IqBgGY" frameborder="0" allowfullscreen></iframe>
