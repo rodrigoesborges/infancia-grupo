@@ -39,6 +39,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
 * [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
+* [Tomer Ast](people/tomer_ast.html), Tel Aviv University
 
 
 
