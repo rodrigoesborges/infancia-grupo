@@ -45,6 +45,9 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 
 ### Undergraduate research assistants
 
+* [Meny Kon](people/meny_kon.html)
+* [Noam Benelli](people/noam_benelli.html)
+
 
 ### Alumni
 * Ephi Ezri, M.Sc. Graduated 2008
