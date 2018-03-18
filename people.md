@@ -29,7 +29,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Marco Boetti](people/marco-boetti.html), COMPLETE International Training Network
 * [Yoav Kessler](people/yoav_kessler.html), together with Prof. Slava Krylov
 * [Meiron Zollmann](people/meiron_zollmann.html), on a direct track to Ph.D., together with Dr. Alex Golberg, Porter School of Environmental Studies
-* [Yftach Golov](people/yftach_golov.html), Ph.D. in the Porter School of Environmental Studies, with Prof. Shlomo Margel (Bar Ilan) and 
+* [Yiftach Golov](people/yiftach_golov.html), Ph.D. in the Porter School of Environmental Studies, with Prof. Shlomo Margel (Bar Ilan) and 
 Prof. Ally Harari (Volcani)
 
 
