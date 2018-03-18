@@ -45,16 +45,6 @@ Three dimensional Particle Tracking Velocimetry (3D-PTV) is our main measurement
 
 <a href="research/mems.html" class="button alt small">Learn more</a>
 
-<!-- ### Lid driven cavity
-
-
-<img src = "{{ site.baseurl }}/images/assembly_belt_large_aquarium.jpg" width = "140px" height="140px" class="img-circle">
-
-
-<p>
-	Lid driven cavity (LDC) is one of the kernel cases in stability analysis. This is a great example of the flow in which the flow is stable at low Reynolds numbers and it is relatively easy to follow the evolution of the flow through a set of bifurcations until the transition to turbulence. We use the LDC flow in studies of particle resuspension under shear, mixing, instability and few practical applications.
-
-</p> <a href="cresearch/avity.html"> <button type="button" class="btn btn-info btn-sm">More ...</button></a> -->
 
 
 ### Dilute polymers effects on turbulence
@@ -67,6 +57,8 @@ Dilute polymers are known to affect turbulent flows and the most known example i
 
 
 
-#### [Past research projects](past_research.html)
+
+
+#### [Past research projects](/research/past_research.html)
 
 #### [Patents](patents.html)
