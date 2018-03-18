@@ -23,20 +23,19 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 
 
 ### Ph.D. students
-* [Yosef Meller](people/yosef_meller.html)
 * [Lilly Verso](people/lilly_verso.html)
 * [Ron Shnapp](people/ron_shnapp.html)
 * [Hadar Traugott](people/hadar_traugott.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Marco Boetti](people/marco-boetti.html), COMPLETE International Training Network
 * [Yoav Kessler](people/yoav_kessler.html), together with Prof. Slava Krylov
 * [Meiron Zollmann](people/meiron_zollmann.html), on a direct track to Ph.D., together with Dr. Alex Golberg, Porter School of Environmental Studies
-
+* [Yftach Golov](people/yftach_golov.html), Ph.D. in the Porter School of Environmental Studies, with Prof. Shlomo Margel (Bar Ilan) and 
+Prof. Ally Harari (Volcani)
 
 
 ### M.Sc. students
 * [Barak Even Chen](people/barak_even_chen.html), together with Prof. Idit Avrahami
 * [Shirly Steinlauf](people/shirly_steinlauf.html), together with Prof. Idit Avrahami
-* [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies
 * [Lior Chertkow](people/lior_chertkow.html) in collaboration with Prof. Avi Seifert laboratory
 * [Sabrina Shlain](people/sabrina_shlain.html), Tel Aviv University
 * [Tomer Ast](people/tomer_ast.html), Tel Aviv University
@@ -45,7 +44,6 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 
 ### Undergraduate research assistants
 
-* [Meny Kon](people/meny_kon.html)
 * [Noam Benelli](people/noam_benelli.html)
 
 
@@ -78,7 +76,7 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Alexander Hinterberger](people/alexander_hinterberger.html), Vienna Technical University, Austria.
 * [Barak Glassman](people/barak_glassman.html)
 * [Avi Friedman](people/avi_friedman.html), co-supervised with Dr. Gabor Kosa
-* [Mark Baevsky](people/mark_baevsky.html)
+* [Mark Baevsky](people/mark_baevsky.html), XJet
 * [Hadar Biran](people/hadar_biran.html), co-supervised with Dr. Idit Avrahami
 * [Lisa Yang](people/lisa_yang.html), [MIT-Israel program](http://misti.mit.edu/mit-israel)
 * [Sarah Berdugo](people/sarah_berdugo.html), Pierre et Marie Curie University, Paris
@@ -86,6 +84,12 @@ Missing: Hadar Ben Gida, Youry Borisenkov, Dina Bass -->
 * [Shaily Wald](people/shaily_wald.html), completed M.Sc. in 2017, supervised together with Prof. Idit Avrahami
 * [Omer Luria](people/omer_luria.html), Tel Aviv University
 * [Daniel Bar](people/daniel_bar.html), Tel Aviv University
+* [Meny Kon](people/meny_kon.html)
+* [Oz Habiby](people/oz_habiby.html), together with Dr. Alex Golberg, Porter School of Environmental Studies, 2018
+* [Yosef Meller](people/yosef_meller.html), Stratasys, graduated 2018
+
+
+
 
 
 
