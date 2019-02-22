@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications
+title: Publicações
 ---
 
 ### [Livros e Capítulos de Livros ...](livros.html)
