@@ -5,7 +5,7 @@ layout: default
     <article class="container">
         <header class="major">
             <h2 class="post-title">{{ page.title }}</h2>
-                <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+                <p class="post-meta">{{ page.date | date: "%d de %b, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
         </header>
 
         <section class="post-content">
@@ -14,9 +14,9 @@ layout: default
 
         <footer>
             {% if page.previous %}
-            <a href="{{site.baseurl}}{{ page.previous.url }}" class="float-left">&larr; Previous post</a> {% endif %}
+            <a href="{{site.baseurl}}{{ page.previous.url }}" class="float-left">&larr; Nota anterior</a> {% endif %}
             {% if page.next %}
-            <a href="{{site.baseurl}}{{ page.next.url }}" class="float-right">Next post &rarr;</a> {% endif %}
+            <a href="{{site.baseurl}}{{ page.next.url }}" class="float-right">Próxima nota &rarr;</a> {% endif %}
         </footer>
 
     </article>
