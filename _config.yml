@@ -1,11 +1,11 @@
 # Site settings
-title: Alex's Lab
-email: alexlib@tau.ac.il
-description: Research Laboratory, Tel Aviv University, experimental turbulence
+title: Grupo Política Social e Primeira Infância
+email: lucia-garcia@uol.com.br
+description: Grupo de Estudos sobre Desenvolvimento Social e Primeira Infância
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alex-lab.github.io" # the base hostname & protocol for your site
-twitter_username: alexlib
-github_username:  alexlib
+url: "http://infancia.ddns.net" # the base hostname & protocol for your site
+twitter_username: primeirainfancia
+github_username:  rodrigoesborges
 
 # Build settings
 markdown: kramdown
