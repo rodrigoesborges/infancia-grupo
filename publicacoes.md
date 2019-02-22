@@ -9,7 +9,7 @@ title: Publications
 ### Artigos publicados em Revistas Acadêmicas ou Congressos
 
 <html>
- <script src="https://bibbase.org/service/mendeley/fb329fcb-394b-3686-a7d8-4373fd71ca2d?jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Finfancia.ddns.net%2Fcitacoes.bib&jsonp=1"></script> 
 </html>
 
 
