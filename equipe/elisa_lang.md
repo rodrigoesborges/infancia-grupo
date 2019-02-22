@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Lisa Yang
+title: Aline ELisa Lang
 ---
 
-Lisa Yang is our visitor under MIT - Israel program for summer 2014. Collaborating with [Lilly Verso](lilly_verso.html) she is working on the stratified turbulence.
+CV Lattes: [Aline E. M. Lang](http://lattes.cnpq.br/1581253089192389)
+
+Aline Elisa Lang é Doutoranda no Programa de Pós-Graduação em Serviço social da UFES
