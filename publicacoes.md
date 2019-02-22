@@ -3,12 +3,10 @@ layout: post
 title: Publications
 ---
 
-### [Books and book sections ...](books.html)
-
-### [Patents ...](research/patents.html)
+### [Livros e Capítulos de Livros ...](livros.html)
 
 
-### Peer-reviewed journal publications and proceedings
+### Artigos publicados em Revistas Acadêmicas ou Congressos
 
 <html>
  <script src="https://bibbase.org/service/mendeley/fb329fcb-394b-3686-a7d8-4373fd71ca2d?jsonp=1"></script> 
