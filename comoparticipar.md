@@ -1,23 +1,26 @@
 ---
 layout: post
-title: Open positions
+title: Como participar
 ---
 
-## M.Sc. or Ph.D. in an analytical and experimental study of Electro-Rheological Fluids 
+Atualmente nos organizamos em torno de uma lista de e-mails, pastas compartilhadas e grupo no WhatsApp.
 
-Electrorheological fluids are suspensions of small non-conducting but electrically active particles in an electrically insulating fluid https://en.wikipedia.org/wiki/Electrorheological_fluid
+Nossa Lista de e-mails está localizada em: [https://groups.google.com/d/forum/childstatepolicy](https://groups.google.com/d/forum/childstatepolicy)
 
-The study is devoted to ERF in microchannels, bridging the analytical modeling of particle-particle interactions and the experiments 
-performed using micro particle image velocimetry (micro-PIV) in a channel with DC or AC electrical fields. 
+É posísvel solicitar informação diretamente, escrevendo para [childstatepolicy+owners@googlgroups.com](childstatepolicy+owners@googlegroups.com)
 
 
-**Information and Applications**
 
-Please include in your application:
-- CV  
-- statement of research interests
-- list of references
-- original transcripts of Batchelor and Master University Degrees 
+**Informações e Solicitação de Participação **
 
-You can send your application or ask for additional information: Prof. Alex Liberzon, [alexlib@eng.tau.ac.il](mailto:alexlib@eng.tau.ac.il)
+Por favor, inclua na sua solicitação de participação:
+- CV
+- declaração de interesses de pesquisa
+- lista de referências
+- título de graduação e mestrado
+
+Você pode enviar sua solicitação ou solicitar informações adicionais:
+
+Profa. Dra. Maria Lúcia Teixeira Garcia, [lucia-garcia@uol.com.br](mailto:lucia-garcia@uol.com.br)
+
 
