@@ -4,7 +4,7 @@ title: Calendário das Reuniões do Grupo Local UFES
 ---
 
 
-<img src="{{ site.baseurl }}/images/shirly_seminar.jpg" class="fit image">
+<img src="{{ site.baseurl }}/images/calendario-reunioes.jpg" class="fit image">
 
 <p>As reuniões de 2019 foram definidas da seguinte forma:</p>
 
