@@ -10,4 +10,4 @@ title: Calendário das Reuniões do Grupo Local UFES
 
 
 
-<iframe width="400" height="215" src="https://professor.borges.net.br/index.php/apps/calendar/embed/3RQWLNLiTfF7GHTe"></iframe>
+<iframe width="400" height="215" src="/calendario/"></iframe>
