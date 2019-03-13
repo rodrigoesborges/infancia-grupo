@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Rafael da Silva Barbosa
 ---
 
