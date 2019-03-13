@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post 
 title: Rodrigo E. S. Borges
 ---
 
