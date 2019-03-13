@@ -5,8 +5,8 @@ title: Aline Fardin Pandolfi
 
 CV Lattes:[Aline F. Pandolfi] (http://lattes.cnpq.br/7181818036272505)
 
-Aline F. Pandolfi é Assistente Social, atualmente professora titular do Departamento de Serviço Social da Universidade Federal do Espírito Santo (UFES). 
-Mestre e Doutora em Política Social pelo Programa de Pós-Graduação em Política Social da UFES. Realizou Doutorado Sanduíche na Universidad de la Habana (Cuba) na Faculdade de Economia. 
-Integra grupos de pesquisa internacional sobre política social em Brasil, Chile e Cuba. Participa do grupo de pesquisa Dinheiro Mundial e financeirização. Realiza estudos e pesquisas nas seguintes áreas: políticas sociais, trabalho, alternativas de desenvolvimento.
+Aline F. Pandolfi Ã© Assistente Social, atualmente professora titular do Departamento de ServiÃ§o Social da Universidade Federal do EspÃ­rito Santo (UFES). 
+Mestre e Doutora em PolÃ­tica Social pelo Programa de PÃ³s-GraduaÃ§Ã£o em PolÃ­tica Social da UFES. Realizou Doutorado SanduÃ­che na Universidad de la Habana (Cuba) na Faculdade de Economia. 
+Integra grupos de pesquisa internacional sobre polÃ­tica social em Brasil, Chile e Cuba. Participa do grupo de pesquisa Dinheiro Mundial e financeirizaÃ§Ã£o. Realiza estudos e pesquisas nas seguintes Ã¡reas: polÃ­ticas sociais, trabalho, alternativas de desenvolvimento.
 
 

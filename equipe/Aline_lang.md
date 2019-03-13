@@ -5,7 +5,7 @@ title: Aline Elisa M. Lang
 
 CV Lattes:[Aline E. M. Lang] (http://lattes.cnpq.br/1581253089192389)
 
-Aline Elisa M. Lang é Assistente Social e Mestre em Política Social pelo Programa de Pós-Graduação em Política Social da Universidade Federal do Espírito Santo (UFES).
-Tem experiência na área de Serviço Social, com ênfase em Política Social, atuando principalmente nos seguintes temas: controle social democrático, criança e adolescente, Conselhos Tutelares, Conselhos dos Direitos da Criança e do Adolescente e Estatuto da Criança e do Adolescente.
+Aline Elisa M. Lang Ã© Assistente Social e Mestre em PolÃ­tica Social pelo Programa de PÃ³s-GraduaÃ§Ã£o em PolÃ­tica Social da Universidade Federal do EspÃ­rito Santo (UFES).
+Tem experiÃªncia na Ã¡rea de ServiÃ§o Social, com Ãªnfase em PolÃ­tica Social, atuando principalmente nos seguintes temas: controle social democrÃ¡tico, crianÃ§a e adolescente, Conselhos Tutelares, Conselhos dos Direitos da CrianÃ§a e do Adolescente e Estatuto da CrianÃ§a e do Adolescente.
 
 

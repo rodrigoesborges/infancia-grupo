@@ -1,10 +1,10 @@
 ---
 layout:post
-title: Fabíola Xavier Leal 
+title: FabÃ­ola Xavier Leal 
 ---
 
-CV Lattes:[Fabíola X. Leal] (http://lattes.cnpq.br/4767058956645536)
+CV Lattes:[FabÃ­ola X. Leal] (http://lattes.cnpq.br/4767058956645536)
 
-Fabíola X. Leal é assistente social, atualmente professora titular do Departamento de Serviço Social da Universidade Federal do Espírito Santo (UFES). 
-Mestre em Política Social pela UFES e Doutorado em Política Social pela UFES e pela University of Southern California/USA.Também é conselheira representante do CFESS no Conselho Nacional de Políticas sobre Drogas e representante da UFES no Conselho Estadual sobre Drogas. 
-Coordena o Grupo de Pesquisas Fênix (Análises das Políticas de Saúde, Saúde Mental e sobre Drogas). Tem experiência na área de Serviço Social, com ênfase em Serviço Social da Saúde, atuando principalmente nos seguintes áreas: políticas de saúde, saúde mental e sobre drogas.
+FabÃ­ola X. Leal Ã© assistente social, atualmente professora titular do Departamento de ServiÃ§o Social da Universidade Federal do EspÃ­rito Santo (UFES). 
+Mestre em PolÃ­tica Social pela UFES e Doutorado em PolÃ­tica Social pela UFES e pela University of Southern California/USA.TambÃ©m Ã© conselheira representante do CFESS no Conselho Nacional de PolÃ­ticas sobre Drogas e representante da UFES no Conselho Estadual sobre Drogas. 
+Coordena o Grupo de Pesquisas FÃªnix (AnÃ¡lises das PolÃ­ticas de SaÃºde, SaÃºde Mental e sobre Drogas). Tem experiÃªncia na Ã¡rea de ServiÃ§o Social, com Ãªnfase em ServiÃ§o Social da SaÃºde, atuando principalmente nos seguintes Ã¡reas: polÃ­ticas de saÃºde, saÃºde mental e sobre drogas.
