@@ -5,6 +5,6 @@ title: Edineia Figueira dos Anjos Oliveira
 
 CV Lattes:[Edineia F. A. Oliveira] (http://lattes.cnpq.br/5687835354653156)
 
-Edineia F. dos Anjos Oliveira é Assistente Social. Atualmente pós-doutoranda em Política Social pelo Programa de Pós-graduação em Política Social da Universidade Federal do Espírito Santo (UFES). 
-Também é Mestre e Doutora pelo mesmo Programa de Pós-graduação. Atua como colaboradora no Programa de Política Social da UFES e participa do grupo de pesquisa FENIX, debatendo política de saúde e saúde mental.
+Edineia F. dos Anjos Oliveira Ã© Assistente Social. Atualmente pÃ³s-doutoranda em PolÃ­tica Social pelo Programa de PÃ³s-graduaÃ§Ã£o em PolÃ­tica Social da Universidade Federal do EspÃ­rito Santo (UFES). 
+TambÃ©m Ã© Mestre e Doutora pelo mesmo Programa de PÃ³s-graduaÃ§Ã£o. Atua como colaboradora no Programa de PolÃ­tica Social da UFES e participa do grupo de pesquisa FENIX, debatendo polÃ­tica de saÃºde e saÃºde mental.
 

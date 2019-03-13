@@ -8,19 +8,19 @@ title: Equipe
 
 Novembro de  2018. -->
 
-### O êxito na pesquisa é resultado de trabalho em equipe
+### O Ãáºxito na pesquisa ÃÂ© resultado de trabalho em equipe
 <img src="{{ site.baseurl }}/images/team.jpg" width="600">
 
 
 
 ### Faculdade
-* [Maria Lúcia Teixeira Garcia](equipe/Maria_Lucia.html), Coordenadora (Profa. Adjunta)
+* [Maria LÃáºcia Teixeira Garcia](equipe/Maria_Lucia.html), Coordenadora (Profa. Adjunta)
 * [Aline Pandolfi, Ph. D.]((equipe/Aline_Pandolfi.html)
-* [Fabíola Xavier Leal, Ph. D.]((equipe/Fabiola_Leal.html)
+* [FabÃÂ­ola Xavier Leal, Ph. D.]((equipe/Fabiola_Leal.html)
 
-### Pós-Doutorandos
+### PÃÄ¡s-Doutorandos
 
-* [Edinéia Oliveira Anjos, Ph. D.]((equipe/Edineia_Oliveira.html)
+* [EdinÃÂ©ia Oliveira Anjos, Ph. D.]((equipe/Edineia_Oliveira.html)
 * [Rafael Silva, Ph.D.](equipe/Rafael_Silva.html)
 * [Rodrigo E. S. Borges, Ph. D.](equipe/Rodrigo_Borges.html)
 
@@ -43,8 +43,8 @@ Novembro de  2018. -->
 
 
 
-### Grande Parte do Crédito vai para nossos Colegas de Pesquisa
-Veja também [Vínculos e Colegas de Pesquisa](links)
+### Grande Parte do CrÃÂ©dito vai para nossos Colegas de Pesquisa
+Veja tambÃÂ©m [VÃÂ­nculos e Colegas de Pesquisa](links)
 
 
 

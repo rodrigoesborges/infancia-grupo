@@ -34,7 +34,7 @@ We use:
 #### Version control
 ---
 
-> After two years of research and one year of heavy data analysis we discovered that the data was initially processed using some old and wrong version of a Matlab function. We could not even figure out when the version of the function was changed and who's the responsible (probably Alex, since he wrote this function in the first place …).   
+> After two years of research and one year of heavy data analysis we discovered that the data was initially processed using some old and wrong version of a Matlab function. We could not even figure out when the version of the function was changed and who's the responsible (probably Alex, since he wrote this function in the first place Ã¢Âá¸).   
 
 ----
 

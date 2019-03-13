@@ -5,5 +5,5 @@ title: Rafael da Silva Barbosa
 
 CV Lattes:[Rafael S. Barbosa] (http://lattes.cnpq.br/4197535383007177)
 
-Rafael S. Barbosa é graduado em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Mestre em Desenvolvimento Econômico Universidade Estadual de Campinas (UNICAMP) e Doutor pelo Programa Desenvolvimento Econômico (UNICAMP). 
-Atualmente, é Pós-Doutorando pelo Programa de Pós-Graduação em Política Social pela UFES, além de desempenhar função colaborativa como colunista da Revista Eletrônica Brasil Debate.
+Rafael S. Barbosa Ã© graduado em CiÃªncias EconÃ´micas pela Universidade Federal do EspÃ­rito Santo (UFES). Mestre em Desenvolvimento EconÃ´mico Universidade Estadual de Campinas (UNICAMP) e Doutor pelo Programa Desenvolvimento EconÃ´mico (UNICAMP). 
+Atualmente, Ã© PÃ³s-Doutorando pelo Programa de PÃ³s-GraduaÃ§Ã£o em PolÃ­tica Social pela UFES, alÃ©m de desempenhar funÃ§Ã£o colaborativa como colunista da Revista EletrÃ´nica Brasil Debate.

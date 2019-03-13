@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Livros e Capítulos de Livro
+title: Livros e CapÃÂ­tulos de Livro
 ---
 
 
@@ -8,5 +8,5 @@ title: Livros e Capítulos de Livro
 
 ![](./images/livro_protecao_social.jpg)
 
-[Vínculo para o livro na Editora EdiPUCRS](http://livrariaedipucrs.pucrs.br)
+[VÃÂ­nculo para o livro na Editora EdiPUCRS](http://livrariaedipucrs.pucrs.br)
 
