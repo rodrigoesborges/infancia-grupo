@@ -6,6 +6,16 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+$(document).ready(function(){   
+    setTimeout(function () {
+        $("#infoProjeto").fadeIn(200);
+     }, 3000);
+    $("#fechaInfoProjeto, .infoProjetoOK").click(function() {
+        $("#infoProjeto").fadeOut(200);
+    }); 
+}); 
+
+
 (function($) {
 
 	skel.init({
