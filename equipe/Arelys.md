@@ -3,7 +3,7 @@ layout: post
 title: Arelys Esquenazi Borrego
 ---
 
-CV Lattes:[Arelys E. Borrego] (http://lattes.cnpq.br/3137016336839966)
+CV Lattes:[Arelys E. Borrego](http://lattes.cnpq.br/3137016336839966)
 
 Arelys E. Borrego é graduada em Economia pela Faculdade de Economia da Universidade de La Habana e mestre em Economia também pela Faculdade de Economia da Universidade de La Habana.
 Atualmente é doutoranda no Programa de Pós-graduação de Política Social na Universidade Federal de Espírito Santo (UFES).
