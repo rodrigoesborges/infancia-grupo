@@ -9,7 +9,7 @@ title: Seminário CAPES/PRINT - realização exitosa
 As apresentações do seminário estão disponíveis nos seguintes links:
 <li><a href="{{ site.baseurl }}/files/2019-03-26-Inge-Soon-Services of Care in Austerity - A ECD SA Persepctive.pdf">Dr. Inge Soon - Services of Care in Austerity - A ECD SA Persepctive</a></li>
 <li><a href="{{ site.baseurl }}/files/20190326-Jade-Economic Crises and Rural Communities in China.pdf"> Prof. Jade-Economic Crises and Rural Communities in China</a></li>
-<li><a href="{{ site.baseurl }}/files/2019-03-26-Spolander - Designing services as if children really mattered.pdf">Prof. Gary Spolander - Designing services as if children really mattered.pdf</a></li>
+<li><a href="{{ site.baseurl }}/files/2019-03-26-Spolander - Designing services as if children really mattered.pdf">Prof. Gary Spolander - Designing services as if children really mattered</a></li>
 
 Materiais adicionais que foram tornados disponíveis previamente encontram-se em:
 
