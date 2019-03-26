@@ -3,7 +3,7 @@ layout: post
 title: Seminário CAPES/PRINT - realização exitosa
 ---
 
-<p>No dia 26 de Março de 2019, o WebSeminário PRINT/UFES contou com a participação de pesquisadores da China, Reino Unido, Brasil e África do Sul.</br>
+<p>No dia 26 de Março de 2019, o WebSeminário PRINT/UFES contou com a participação de pesquisadores da China, Reino Unido, Brasil e África do Sul.<br/>
 <img src="{{ site.baseurl }}/images/2019-03-26-capes-print-video.jpg" class="fit image">
 <br/>
 As apresentações do seminário estão disponíveis nos seguintes links:
