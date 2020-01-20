@@ -14,9 +14,20 @@ Novembro de  2018. -->
 
 
 ### Faculdade
+* [Olga Pérez Soto](equipe/Olga.html), Coordenadora - Profesora Titular - Universidad de la Habana
+* [Silvia Odriozola Guitart](equipe/Silvia.html), Profesora Titular - Universidad de la Habana
+* [Henry Colina Hernández](equipe/Henry.html)
 * [Maria Lúcia Teixeira Garcia](equipe/Maria_Lucia.html), Coordenadora (Profa. Adjunta)
 * [Aline Pandolfi, Ph. D.](equipe/Aline_Pandolfi.html)
 * [Fabíola Xavier Leal, Ph. D.](equipe/Fabiola_Leal.html)
+
+* [Ahmed](equipe/Ahmed.html)
+* [Becksy](equipe/Becksy.html)
+* [Diana](equipe/Diana.html)
+* [Juan Carlos](equipe/Juan_Carlos.html)
+* [Marián](equipe/Marian.html)
+* [Natalia](equipe/Natalia.html)
+
 
 ### Pós-Doutorandos
 
