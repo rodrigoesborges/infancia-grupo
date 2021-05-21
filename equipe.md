@@ -14,13 +14,34 @@ Novembro de  2018. -->
 
 
 ### Faculdade
+<<<<<<< HEAD
 * [Maria LÃáºcia Teixeira Garcia](equipe/Maria_Lucia.html), Coordenadora (Profa. Adjunta)
 * [Aline Pandolfi, Ph. D.]((equipe/Aline_Pandolfi.html)
 * [FabÃÂ­ola Xavier Leal, Ph. D.]((equipe/Fabiola_Leal.html)
+=======
+* [Olga Pérez Soto](equipe/Olga.html), Coordenadora - Profesora Titular - Universidad de la Habana
+* [Silvia Odriozola Guitart](equipe/Silvia.html), Profesora Titular - Universidad de la Habana
+* [Henry Colina Hernández](equipe/Henry.html)
+* [Maria Lúcia Teixeira Garcia](equipe/Maria_Lucia.html), Coordenadora (Profa. Adjunta)
+* [Aline Pandolfi, Ph. D.](equipe/Aline_Pandolfi.html)
+* [Fabíola Xavier Leal, Ph. D.](equipe/Fabiola_Leal.html)
+
+* [Ahmed](equipe/Ahmed.html)
+* [Becksy](equipe/Becksy.html)
+* [Diana](equipe/Diana.html)
+* [Juan Carlos](equipe/Juan_Carlos.html)
+* [Marián](equipe/Marian.html)
+* [Natalia](equipe/Natalia.html)
+
+>>>>>>> 1519be9504dac882b1f7f543ff9d607af5d41b09
 
 ### PÃÄ¡s-Doutorandos
 
+<<<<<<< HEAD
 * [EdinÃÂ©ia Oliveira Anjos, Ph. D.]((equipe/Edineia_Oliveira.html)
+=======
+* [Edinéia Oliveira Anjos, Ph. D.](equipe/Edineia_Oliveira.html)
+>>>>>>> 1519be9504dac882b1f7f543ff9d607af5d41b09
 * [Rafael Silva, Ph.D.](equipe/Rafael_Silva.html)
 * [Rodrigo E. S. Borges, Ph. D.](equipe/Rodrigo_Borges.html)
 
@@ -28,7 +49,7 @@ Novembro de  2018. -->
 
 ### Estudantes de Doutorado
 * [Aline Lang, Ms.C.](equipe/Aline_Lang.html)
-* [Arelys Esquinazi Borrego, Ms. C.]((equipe/Arelys.html)
+* [Arelys Esquinazi Borrego, Ms. C.](equipe/Arelys.html)
 
 ### Estudantes de Mestrado
 
